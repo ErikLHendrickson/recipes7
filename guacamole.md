@@ -1,5 +1,6 @@
 # Guacamole
 ## Ingredients
-** avocado
-** limes
+* avocado
+* limes
 ## Instructions
+* mash up avocado
